@@ -1,4 +1,5 @@
 do{ my $x = {
-       'Hash-Extends-*' => 1
+       'Hash-Extends-*' => 1,
+       'blib' => 1
      };
 $x; }
