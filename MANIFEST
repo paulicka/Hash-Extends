@@ -1,0 +1,14 @@
+Build.PL
+Changes
+ignore.txt
+lib/Hash/Extends.pm
+MANIFEST			This list of files
+MANIFEST.SKIP
+README
+t/00-load.t
+t/01-basic.t
+t/02-internal.t
+t/03-complex.t
+t/boilerplate.t
+t/pod-coverage.t
+t/pod.t

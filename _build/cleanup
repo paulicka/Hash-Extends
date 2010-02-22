@@ -1,0 +1,4 @@
+do{ my $x = {
+       'Hash-Extends-*' => 1
+     };
+$x; }
